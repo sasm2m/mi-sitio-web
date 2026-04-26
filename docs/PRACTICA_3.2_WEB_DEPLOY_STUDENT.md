@@ -307,12 +307,12 @@ git push origin main
 
 Checklist de entrega:
 
-- [ ] Repositorio en GitHub: `mi-sitio-web`
-- [ ] Código visible en main
-- [ ] Sitio en vivo: `https://tu-usuario.github.io/mi-sitio-web`
-- [ ] Botón funciona
-- [ ] Cambio en vivo demostrado
-- [ ] Workflow ✅ verde en Actions
+- [x] Repositorio en GitHub: `mi-sitio-web`
+- [x] Código visible en main
+- [x] Sitio en vivo: `https://tu-usuario.github.io/mi-sitio-web`
+- [x] Botón funciona
+- [x] Cambio en vivo demostrado
+- [x] Workflow ✅ verde en Actions
 
 ---
 
